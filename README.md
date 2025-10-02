@@ -1,3 +1,4 @@
+![protesto_censura_capa_nova](https://github.com/user-attachments/assets/680f3bca-cd19-4dd1-a766-2a38b0136ef7)
 # 🎶 A Música Brasileira na Ditadura Militar  
 ### Dataset para análise de tópicos
 
