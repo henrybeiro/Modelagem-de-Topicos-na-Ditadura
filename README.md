@@ -5,7 +5,7 @@
 Este repositório disponibiliza o **dataset** utilizado no artigo:  
 
 📄 **A Música Brasileira na Ditadura Militar: uma análise de tópicos com BERTopic e GSDMM**  
-Autores: Henry Ribeiro Piceni, Pedro Vitor Alexandre, Dennis Giovani Balreira  
+**Autores:** Henry Ribeiro Piceni (henry.piceni@inf.ufrgs.br), Pedro Vitor Alexandre (pvalexandre@inf.ufrgs.br), Dennis Giovani Balreira (dgbalreira@inf.ufrgs.br)
 Instituto de Informática – Universidade Federal do Rio Grande do Sul (UFRGS)  
 
 ---
